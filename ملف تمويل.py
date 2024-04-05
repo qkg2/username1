@@ -1,6 +1,6 @@
 <?php
 
-$token = "6015809423:AAHgbgIZHnGnCJKjDqiwuTZI7P_Q_WQmKag";
+$token = "6015809423:AAHzyrNvpLVwDoFlyKyc5ajewgzeZOyvuZc";
 $Df = "5099564264";
  define('API_KEY',$token);
 echo file_get_contents("https://api.telegram.org/bot" . API_KEY . "/setwebhook?url=" . $_SERVER['SERVER_NAME'] . "" . $_SERVER['SCRIPT_NAME']);
@@ -244,7 +244,7 @@ $XQ_3X = [
 اهلا بك 🎭 عزيزي الادمن 🍿 هذه لوحة التحكم الخاصة بك 🥡 اختر ما تريد ...
 ━━━━━━━━━━━━━━━━━━━━━━━━
 🎟️ : قناتي 
-@musicalgerian
+@AFTU2
 ━━━━━━━━━━━━━━━━━━━━━━━━
 ",
 "off"=>"- عذرأ عزيزي حاليأ البوت معطل لتحديث جديدة..🔍",
